@@ -2,17 +2,15 @@
 
 This is a test project to get a REST API up and running with Node, Express and MongoDB
 
-## Project setup
+## Install
 ```
+git clone git@github.com:smartweber/node.js-document-api.git
 npm install
-```
-
-### Run
-```
+cp .env.example .env
 npm start
 ```
 
-### Test
+## Tests
 ```
 npm test
 ```
