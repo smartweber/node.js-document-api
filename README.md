@@ -1,6 +1,6 @@
 # Build REST API with Express & Mongoose
 
-This is a test project to get a REST API up and running with Node, Express and MongoDB
+This is a test project to get a REST API up and running with Node, Express and MongoDB.
 
 Table of contents:
 
@@ -9,6 +9,8 @@ Table of contents:
 - [MongoDB](#mongodb)
 - [Install](#install)
 - [Tests](#tests)
+
+You need to have two databases for development and test before running or testing.
 
 ## Install
 ```
