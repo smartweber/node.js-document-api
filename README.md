@@ -6,9 +6,10 @@ Table of contents:
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [MongoDB](#mongodb)
-- [Install](#install)
-- [Tests](#tests)
+- [MongoDB](https://docs.mongodb.com/guides/server/install)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [NPM](https://www.npmjs.com/get-npm)
+- [Jest](https://jestjs.io/docs/en/getting-started)
 
 You need to have two databases for development and test before running or testing.
 
